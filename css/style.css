@@ -1,21 +1,25 @@
+.font{
+    font-family: 'Bebas Neue', cursive;
+}
+.man{
+    width: 20%;
+}
 .nav1{
-    font-size: 20px;
+    font-size: 30px;
     font-weight: 700;
 }
+.logosize{
+    width: 50%;
+    height: 50%;
+}
 #tag{
-    font-size: 60px;
+    font-size: 80px;
     font-weight: 700;
 }
 .card1 img{
     width: 60%;
     height: 80%;
 }
-
-.card1{
-    border-radius: 10px;
-    border-color: white;
-}
-
 .back{
     background-color: rgb(226, 221, 221);
     margin: 10px;
@@ -40,4 +44,10 @@
 
 .item{
     list-style-type: none;
+}
+.tags{
+    font-size: 50px;
+    font-weight: 700;
+    color: rgb(52, 52, 158);
+    font-family: 'Bebas Neue', cursive;
 }
